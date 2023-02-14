@@ -4,6 +4,6 @@ Steps to run:
 
 Install requirements:
 
-`pip install -r ./requiremets.txt`
+`pip install -r ./requirements.txt`
 
 run Jupiter books
